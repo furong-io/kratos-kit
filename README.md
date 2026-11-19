@@ -1,6 +1,6 @@
-# Kratos Middleware
+# Kratos Kit
 
-Middlewares lib for kratos v3
+A toolkit for Kratos v3
 
 ## Middlewares
 
