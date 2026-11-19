@@ -2,7 +2,10 @@ module github.com/furong-io/kratos-kit
 
 go 1.25.5
 
-require github.com/go-kratos/kratos/v3 v3.0.0
+require (
+	github.com/go-kratos/kratos/v3 v3.0.0
+	github.com/stretchr/testify v1.12.1
+)
 
 require (
 	github.com/go-playground/form/v4 v4.3.0 // indirect
@@ -10,6 +13,7 @@ require (
 	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
 	github.com/kr/text v0.2.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/net v0.54.0 // indirect
 	golang.org/x/sys v0.44.0 // indirect
 	golang.org/x/text v0.37.0 // indirect
