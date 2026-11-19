@@ -1,4 +1,4 @@
-module github.com/unkmonster/kratos-middleware
+module github.com/furong-io/kratos-kit
 
 go 1.25.5
 
